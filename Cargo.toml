@@ -1,0 +1,8 @@
+[package]
+name = "Jetpack_Joyride_n_Rust_with_Bevy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = "0.18.0"
+rand = "0.8.5"
